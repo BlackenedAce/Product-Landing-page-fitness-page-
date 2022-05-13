@@ -95,6 +95,7 @@ nav li:hover {
 }
 
 .grid {
+  margin-top:80px;
   display:inline-grid ;
   grid-template-columns: repeat(2, 1fr);
   grid-column-gap: 30px;
@@ -125,11 +126,13 @@ nav li:hover {
 }
 
 #about iframe {
+  margin-top:40px;
  width:560px;
  height:315px;
 }
 
 .columns {
+  margin-top:60px;
   float: left;
   width: 33.3%;
   padding: 30px;
